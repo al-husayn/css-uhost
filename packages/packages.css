@@ -53,6 +53,12 @@ main{
     border-left: 4px solid #0e4f1f;
     text-align: right ;
 }
+   
+#free:hover,
+#free:active {
+    border-left: 4px solid #ff5454;
+}
+
 #premium{
     background: rgba(14, 79, 31, 0.95);
 }
